@@ -50,6 +50,3 @@ Calculate the pairwise distance between two cgMLST results from BioNumerics/Puls
 Run:
 `distance.bn.pl <pn2.0_core_calls.tsv>`
 
-
-## Citation
-If you use this repo, please cite it as - Krishnan K, *cgMLST-comparisons*, https://github.com/kkrittika/cgmlst-comparisons/
