@@ -1,0 +1,11 @@
+title: cgmlst-comparisons
+repository-code: https://github.com/kkrittika/cgmlst-comparisons.git
+date-released: 2025-08-31
+authors:
+  - given-names: Krittika
+    family-names: Krishnan
+  - given-names: Lee
+    family-names: Katz
+  - given-names: Anusha
+    family-names: Ginni
+cff-version: 1.2.0
